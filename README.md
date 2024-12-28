@@ -15,7 +15,7 @@ this is my solution for it (requirements + bonus) and this is the guide to run t
 **Setup**  
 
 1- download or clone this github repo and navigate to the folder where you downloaded or cloned this repo.  
-2- this folder has the client and server folders so navigate to the server folder first.  
+2- this folder has the client and server folders.  
 3- in the server folder open the terminal and type "npm install" to get all the dependencies.  
 4- in the client folder open the terminal and type "npm install --force" to get all the dependencies.  
 5- navigate to the server folder and open the terminal and type "npm run start:dev" to run the backend server.  
