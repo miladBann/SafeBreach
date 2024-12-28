@@ -13,6 +13,7 @@ Hi! thank you for this opportunity and for the fun challenge.
 this is my solution for it (requirements + bonus) and this is the guide to run the app.  
 
 **Setup**  
+
 1- download or clone this github repo and navigate to the folder where you downloaded or cloned this repo.  
 2- this folder has the client and server folders so navigate to the server folder first.  
 3- in the server folder open the terminal and type "npm install" to get all the dependencies.  
@@ -34,7 +35,7 @@ this is my solution for it (requirements + bonus) and this is the guide to run t
 7- at the bottom of the app you can control the animation of the path of events for the selected device via the playBack control panel (play/pause/forward/backward/speed).  
 8- the app is responsive and works on any device.  
 9- if you want to add more devices or events you can add it to the tracking_events.json file that's in the root of the server folder and you will see the new device and/or event appear in the frontend in real-time.  
-10- the assigmnet didn't require to add a feature to add events from the frontend and send it to the backend, but both sides are designed to handle that task in case it gets added in the future.
+10- the assigmnet didn't require to add a feature to add events from the frontend and send it to the backend, but both sides are designed in a way to handle that task easily in case it gets added in the future.
 
 ---------------------------------------  
 -Hope you like it :)
