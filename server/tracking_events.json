@@ -1,0 +1,1086 @@
+{
+  "events": [
+    {
+      "id": "4485uQyP",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.07218585063031,
+      "longitude": 34.829755056227995,
+      "timestamp": 1734423872578,
+      "timestamp_formatted": "2024-12-17T08:24:32.578Z",
+      "accuracy": 26,
+      "battery": 100,
+      "location_details": {
+        "address": "5886 W 11th Street",
+        "area": "Johnson County"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -75,
+      "movement_speed": 2.35419342313887
+    },
+    {
+      "id": "dSajs8yp",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.072290503450645,
+      "longitude": 34.731081738961706,
+      "timestamp": 1734423872578,
+      "timestamp_formatted": "2024-12-17T08:24:32.578Z",
+      "accuracy": 22,
+      "battery": 100,
+      "location_details": {
+        "address": "33067 Green Field",
+        "area": "West Sussex"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -30,
+      "movement_speed": 2.5941166056924594
+    },
+    {
+      "id": "QJVDCEO2",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.1095046446925,
+      "longitude": 34.80971029679147,
+      "timestamp": 1734423872578,
+      "timestamp_formatted": "2024-12-17T08:24:32.578Z",
+      "accuracy": 17,
+      "battery": 100,
+      "location_details": {
+        "address": "6711 Barrett Brooks",
+        "area": "Clwyd",
+        "building": "Lind Group"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -71,
+      "movement_speed": 0.48542774358644847
+    },
+    {
+      "id": "ICKQGfcb",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.07223071261578,
+      "longitude": 34.83072243647126,
+      "timestamp": 1734428192578,
+      "timestamp_formatted": "2024-12-17T09:36:32.578Z",
+      "accuracy": 26,
+      "battery": 98,
+      "location_details": {
+        "address": "90237 Dorothea Extensions",
+        "area": "Lancashire",
+        "building": "Koepp Group"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -30,
+      "movement_speed": 3.149785744169053
+    },
+    {
+      "id": "3c4cMG4K",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07414864250677,
+      "longitude": 34.7314887943315,
+      "timestamp": 1734428192578,
+      "timestamp_formatted": "2024-12-17T09:36:32.578Z",
+      "accuracy": 87,
+      "battery": 99,
+      "location_details": {
+        "address": "84226 McGlynn Views",
+        "area": "Henry County"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -73,
+      "movement_speed": 1.8146688733940892
+    },
+    {
+      "id": "CzPfbzXb",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.109162596369046,
+      "longitude": 34.81203930911308,
+      "timestamp": 1734428192578,
+      "timestamp_formatted": "2024-12-17T09:36:32.578Z",
+      "accuracy": 24,
+      "battery": 98,
+      "location_details": {
+        "address": "892 Roob Field",
+        "area": "West Yorkshire"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -91,
+      "movement_speed": 4.444640384001027
+    },
+    {
+      "id": "t5buXx1P",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.07151263262096,
+      "longitude": 34.83154073833605,
+      "timestamp": 1734432512578,
+      "timestamp_formatted": "2024-12-17T10:48:32.578Z",
+      "accuracy": 60,
+      "battery": 97,
+      "location_details": {
+        "address": "428 Wisozk Course",
+        "area": "Dorset"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -32,
+      "movement_speed": 1.1903112460466208
+    },
+    {
+      "id": "vpr47nZY",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07430500460761,
+      "longitude": 34.73110128779542,
+      "timestamp": 1734432512578,
+      "timestamp_formatted": "2024-12-17T10:48:32.578Z",
+      "accuracy": 25,
+      "battery": 98,
+      "location_details": {
+        "address": "54346 Cedar Avenue",
+        "area": "Dorset",
+        "building": "Dietrich, Marks and Shields"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -78,
+      "movement_speed": 1.4213247328507506
+    },
+    {
+      "id": "9qexehEQ",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.110036040915446,
+      "longitude": 34.81271376643405,
+      "timestamp": 1734432512578,
+      "timestamp_formatted": "2024-12-17T10:48:32.578Z",
+      "accuracy": 12,
+      "battery": 96,
+      "location_details": {
+        "address": "15361 Roberta Burgs",
+        "area": "Somerset"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -46,
+      "movement_speed": 4.271074635513241
+    },
+    {
+      "id": "Etaw54nO",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.07136089639257,
+      "longitude": 34.83121199554164,
+      "timestamp": 1734436832578,
+      "timestamp_formatted": "2024-12-17T12:00:32.578Z",
+      "accuracy": 30,
+      "battery": 96,
+      "location_details": {
+        "address": "6519 Grant Corner",
+        "area": "Kent",
+        "building": "Cruickshank Inc"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -33,
+      "movement_speed": 1.0259980743240016
+    },
+    {
+      "id": "oNHIF52c",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.0723441756091,
+      "longitude": 34.73208664120755,
+      "timestamp": 1734436832578,
+      "timestamp_formatted": "2024-12-17T12:00:32.578Z",
+      "accuracy": 29,
+      "battery": 97,
+      "location_details": {
+        "address": "13753 Powlowski Trail",
+        "area": "Kent"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -31,
+      "movement_speed": 1.9739746133716922
+    },
+    {
+      "id": "FWu4LqAB",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.111518769694435,
+      "longitude": 34.81175216765504,
+      "timestamp": 1734436832578,
+      "timestamp_formatted": "2024-12-17T12:00:32.578Z",
+      "accuracy": 8,
+      "battery": 95,
+      "location_details": {
+        "address": "6084 Jaydon Plain",
+        "area": "Monroe County",
+        "building": "Satterfield, Pacocha and Rogahn"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -84,
+      "movement_speed": 4.593731557614597
+    },
+    {
+      "id": "jEoDCpqS",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.072958139417906,
+      "longitude": 34.82941192533046,
+      "timestamp": 1734441152578,
+      "timestamp_formatted": "2024-12-17T13:12:32.578Z",
+      "accuracy": 14,
+      "battery": 94,
+      "location_details": {
+        "address": "74620 Dariana Greens",
+        "area": "Northamptonshire"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -95,
+      "movement_speed": 4.111615739886346
+    },
+    {
+      "id": "J6552t5u",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07305299716541,
+      "longitude": 34.73229818465981,
+      "timestamp": 1734441152578,
+      "timestamp_formatted": "2024-12-17T13:12:32.578Z",
+      "accuracy": 5,
+      "battery": 95,
+      "location_details": {
+        "address": "9091 Brittany Cliffs",
+        "area": "Mid Glamorgan",
+        "building": "Torp - Langosh"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -95,
+      "movement_speed": 1.8658443718247382
+    },
+    {
+      "id": "cvvlgLgS",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.11396833948197,
+      "longitude": 34.80945388668632,
+      "timestamp": 1734441152578,
+      "timestamp_formatted": "2024-12-17T13:12:32.578Z",
+      "accuracy": 23,
+      "battery": 94,
+      "location_details": {
+        "address": "710 Birdie Canyon",
+        "area": "Crawford County"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -94,
+      "movement_speed": 2.216331826520358
+    },
+    {
+      "id": "ZW67W1K0",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.070943342769745,
+      "longitude": 34.82798071242473,
+      "timestamp": 1734445472578,
+      "timestamp_formatted": "2024-12-17T14:24:32.578Z",
+      "accuracy": 27,
+      "battery": 93,
+      "location_details": {
+        "address": "4927 Kunze Extensions",
+        "area": "Pike County"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -85,
+      "movement_speed": 4.801633051896229
+    },
+    {
+      "id": "rC711Hwc",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.075439918513084,
+      "longitude": 34.734355207641045,
+      "timestamp": 1734445472578,
+      "timestamp_formatted": "2024-12-17T14:24:32.578Z",
+      "accuracy": 9,
+      "battery": 95,
+      "location_details": {
+        "address": "69676 Schneider Wells",
+        "area": "Morgan County"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -64,
+      "movement_speed": 0.8478256068137857
+    },
+    {
+      "id": "lcBaw3Kx",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.11426281025357,
+      "longitude": 34.8078706459789,
+      "timestamp": 1734445472578,
+      "timestamp_formatted": "2024-12-17T14:24:32.578Z",
+      "accuracy": 11,
+      "battery": 94,
+      "location_details": {
+        "address": "72385 Rolfson Curve",
+        "area": "Dyfed",
+        "building": "McClure - Predovic"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -72,
+      "movement_speed": 3.1997672093445866
+    },
+    {
+      "id": "mPaNcdqd",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.07116597343485,
+      "longitude": 34.827715249435414,
+      "timestamp": 1734449792578,
+      "timestamp_formatted": "2024-12-17T15:36:32.578Z",
+      "accuracy": 15,
+      "battery": 91,
+      "location_details": {
+        "address": "7977 Spruce Street",
+        "area": "Powys"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -73,
+      "movement_speed": 3.817043242899622
+    },
+    {
+      "id": "KDifDPid",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.077251550603094,
+      "longitude": 34.732269928241394,
+      "timestamp": 1734449792578,
+      "timestamp_formatted": "2024-12-17T15:36:32.578Z",
+      "accuracy": 30,
+      "battery": 95,
+      "location_details": {
+        "address": "9667 Lindgren Point",
+        "area": "Northumberland"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -66,
+      "movement_speed": 3.673517894751761
+    },
+    {
+      "id": "tiWUSdKr",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.11518336924313,
+      "longitude": 34.80551781855024,
+      "timestamp": 1734449792578,
+      "timestamp_formatted": "2024-12-17T15:36:32.578Z",
+      "accuracy": 21,
+      "battery": 93,
+      "location_details": {
+        "address": "4764 Nader Islands",
+        "area": "Worcestershire",
+        "building": "Metz LLC"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -95,
+      "movement_speed": 3.9779636562320917
+    },
+    {
+      "id": "VBJvqun1",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.07243566390533,
+      "longitude": 34.82685529686928,
+      "timestamp": 1734454112578,
+      "timestamp_formatted": "2024-12-17T16:48:32.578Z",
+      "accuracy": 30,
+      "battery": 91,
+      "location_details": {
+        "address": "56965 Morar Mills",
+        "area": "Cheshire"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -58,
+      "movement_speed": 4.590026970812059
+    },
+    {
+      "id": "UVHrhnZj",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.078332641706176,
+      "longitude": 34.73385737643908,
+      "timestamp": 1734454112578,
+      "timestamp_formatted": "2024-12-17T16:48:32.578Z",
+      "accuracy": 8,
+      "battery": 94,
+      "location_details": {
+        "address": "5348 Gavin Mews",
+        "area": "Johnson County",
+        "building": "Lebsack, Marks and Graham"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -98,
+      "movement_speed": 0.27865386136532944
+    },
+    {
+      "id": "cxRAr6pd",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.11313921789371,
+      "longitude": 34.806206957628554,
+      "timestamp": 1734454112578,
+      "timestamp_formatted": "2024-12-17T16:48:32.578Z",
+      "accuracy": 52,
+      "battery": 92,
+      "location_details": {
+        "address": "6909 Barton Road",
+        "area": "Buckinghamshire"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -46,
+      "movement_speed": 0.038020034328737906
+    },
+    {
+      "id": "g0VSQyok",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.073158550588225,
+      "longitude": 34.82547256503876,
+      "timestamp": 1734458432578,
+      "timestamp_formatted": "2024-12-17T18:00:32.578Z",
+      "accuracy": 24,
+      "battery": 89,
+      "location_details": {
+        "address": "707 Schultz Crest",
+        "area": "Surrey"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -56,
+      "movement_speed": 4.811669077056003
+    },
+    {
+      "id": "mrq650iQ",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.08011443338992,
+      "longitude": 34.73530852989614,
+      "timestamp": 1734458432578,
+      "timestamp_formatted": "2024-12-17T18:00:32.578Z",
+      "accuracy": 28,
+      "battery": 92,
+      "location_details": {
+        "address": "50903 Joanie Ville",
+        "area": "Leicestershire"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -96,
+      "movement_speed": 4.935047649737582
+    },
+    {
+      "id": "NXYPsDwV",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.110738764029236,
+      "longitude": 34.80422404821222,
+      "timestamp": 1734458432578,
+      "timestamp_formatted": "2024-12-17T18:00:32.578Z",
+      "accuracy": 30,
+      "battery": 90,
+      "location_details": {
+        "address": "11727 Arely Spring",
+        "area": "North Yorkshire",
+        "building": "Grady - Dooley"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -61,
+      "movement_speed": 1.5575235798509413
+    },
+    {
+      "id": "OGcqmrpo",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.075468497865856,
+      "longitude": 34.8261240765355,
+      "timestamp": 1734462752578,
+      "timestamp_formatted": "2024-12-17T19:12:32.578Z",
+      "accuracy": 14,
+      "battery": 87,
+      "location_details": {
+        "address": "30738 Tobin Pike",
+        "area": "East Sussex",
+        "building": "Cormier, Botsford and Hansen"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -73,
+      "movement_speed": 0.20637011196076638
+    },
+    {
+      "id": "HEiWci2z",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07789814333803,
+      "longitude": 34.734736341339364,
+      "timestamp": 1734462752578,
+      "timestamp_formatted": "2024-12-17T19:12:32.578Z",
+      "accuracy": 12,
+      "battery": 92,
+      "location_details": {
+        "address": "7985 Valentin Stravenue",
+        "area": "Warren County"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -95,
+      "movement_speed": 0.371549990323391
+    },
+    {
+      "id": "i2xr4Mp0",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.110851607360004,
+      "longitude": 34.80238323954646,
+      "timestamp": 1734462752578,
+      "timestamp_formatted": "2024-12-17T19:12:32.578Z",
+      "accuracy": 104,
+      "battery": 89,
+      "location_details": {
+        "address": "59648 Prospect Place",
+        "area": "Morgan County"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -72,
+      "movement_speed": 3.3431784037446084
+    },
+    {
+      "id": "wjqeKoqj",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.076533809860884,
+      "longitude": 34.82513532257108,
+      "timestamp": 1734467072578,
+      "timestamp_formatted": "2024-12-17T20:24:32.578Z",
+      "accuracy": 14,
+      "battery": 86,
+      "location_details": {
+        "address": "19284 Walter Heights",
+        "area": "South Yorkshire",
+        "building": "Hammes - Carroll"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -87,
+      "movement_speed": 0.4823856466925214
+    },
+    {
+      "id": "Ev5JxcuG",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07884807563954,
+      "longitude": 34.73235702440104,
+      "timestamp": 1734467072578,
+      "timestamp_formatted": "2024-12-17T20:24:32.578Z",
+      "accuracy": 18,
+      "battery": 92,
+      "location_details": {
+        "address": "158 Wilkinson Village",
+        "area": "Cumbria"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -43,
+      "movement_speed": 2.217839196829658
+    },
+    {
+      "id": "cJuV7Paz",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.11138164925457,
+      "longitude": 34.80409749076075,
+      "timestamp": 1734467072578,
+      "timestamp_formatted": "2024-12-17T20:24:32.578Z",
+      "accuracy": 20,
+      "battery": 87,
+      "location_details": {
+        "address": "704 Lera Center",
+        "area": "Monroe County"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -59,
+      "movement_speed": 2.7018003767285514
+    },
+    {
+      "id": "iduBvdf1",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.0769968882609,
+      "longitude": 34.823063491928764,
+      "timestamp": 1734471392578,
+      "timestamp_formatted": "2024-12-17T21:36:32.578Z",
+      "accuracy": 15,
+      "battery": 86,
+      "location_details": {
+        "address": "5343 Johathan Terrace",
+        "area": "North Yorkshire"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -45,
+      "movement_speed": 1.5589931560775945
+    },
+    {
+      "id": "HVdZryPw",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07865746480644,
+      "longitude": 34.73356481279548,
+      "timestamp": 1734471392578,
+      "timestamp_formatted": "2024-12-17T21:36:32.578Z",
+      "accuracy": 18,
+      "battery": 92,
+      "location_details": {
+        "address": "30164 The Beeches",
+        "area": "Hamilton County",
+        "building": "Conn, Abshire and O'Connell"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -34,
+      "movement_speed": 0.9304588599891811
+    },
+    {
+      "id": "2jwqvtZv",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.11214473850934,
+      "longitude": 34.80294127077251,
+      "timestamp": 1734471392578,
+      "timestamp_formatted": "2024-12-17T21:36:32.578Z",
+      "accuracy": 120,
+      "battery": 86,
+      "location_details": {
+        "address": "281 New Lane",
+        "area": "Logan County"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -87,
+      "movement_speed": 4.157497013710946
+    },
+    {
+      "id": "lT6RKJkA",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.07882717659526,
+      "longitude": 34.82479393667819,
+      "timestamp": 1734475712578,
+      "timestamp_formatted": "2024-12-17T22:48:32.578Z",
+      "accuracy": 7,
+      "battery": 84,
+      "location_details": {
+        "address": "35045 S 6th Street",
+        "area": "Herefordshire"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -87,
+      "movement_speed": 1.0155211249602853
+    },
+    {
+      "id": "KqkGIfU5",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07813777565488,
+      "longitude": 34.73256565579978,
+      "timestamp": 1734475712578,
+      "timestamp_formatted": "2024-12-17T22:48:32.578Z",
+      "accuracy": 12,
+      "battery": 90,
+      "location_details": {
+        "address": "1668 E Maple Street",
+        "area": "Cleveland"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -45,
+      "movement_speed": 2.8537429731140236
+    },
+    {
+      "id": "rglWQ3IS",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.11318880857443,
+      "longitude": 34.80482594714623,
+      "timestamp": 1734475712578,
+      "timestamp_formatted": "2024-12-17T22:48:32.578Z",
+      "accuracy": 14,
+      "battery": 84,
+      "location_details": {
+        "address": "5266 Marsh Lane",
+        "area": "County Londonderry",
+        "building": "Koss - Wunsch"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -81,
+      "movement_speed": 1.0795234500742956
+    },
+    {
+      "id": "1WkJmiQQ",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.081159893242045,
+      "longitude": 34.82592686032332,
+      "timestamp": 1734480032578,
+      "timestamp_formatted": "2024-12-18T00:00:32.578Z",
+      "accuracy": 11,
+      "battery": 84,
+      "location_details": {
+        "address": "8910 Grove Road",
+        "area": "Logan County"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -97,
+      "movement_speed": 1.546234577275094
+    },
+    {
+      "id": "OWviazmZ",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07595509308847,
+      "longitude": 34.73148391750405,
+      "timestamp": 1734480032578,
+      "timestamp_formatted": "2024-12-18T00:00:32.578Z",
+      "accuracy": 15,
+      "battery": 89,
+      "location_details": {
+        "address": "844 Center Street",
+        "area": "County Londonderry",
+        "building": "Bednar - Crona"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -73,
+      "movement_speed": 2.039498856179764
+    },
+    {
+      "id": "dYYSrYe8",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.11281674691704,
+      "longitude": 34.80420088791747,
+      "timestamp": 1734480032578,
+      "timestamp_formatted": "2024-12-18T00:00:32.578Z",
+      "accuracy": 27,
+      "battery": 83,
+      "location_details": {
+        "address": "688 Schowalter Shoals",
+        "area": "Hancock County"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -81,
+      "movement_speed": 2.0416568746176544
+    },
+    {
+      "id": "uF19n7yk",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.081372949813726,
+      "longitude": 34.82655409283128,
+      "timestamp": 1734484352578,
+      "timestamp_formatted": "2024-12-18T01:12:32.578Z",
+      "accuracy": 12,
+      "battery": 83,
+      "location_details": {
+        "address": "3098 Weber Pass",
+        "area": "West Glamorgan",
+        "building": "Zemlak LLC"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -57,
+      "movement_speed": 1.9860260170170956
+    },
+    {
+      "id": "lcUjpBgj",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.0755118597905,
+      "longitude": 34.73379547105597,
+      "timestamp": 1734484352578,
+      "timestamp_formatted": "2024-12-18T01:12:32.578Z",
+      "accuracy": 28,
+      "battery": 89,
+      "location_details": {
+        "address": "894 Jennie Corners",
+        "area": "West Yorkshire",
+        "building": "Padberg and Sons"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -70,
+      "movement_speed": 0.3179538768573198
+    },
+    {
+      "id": "J4Cz0HnU",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.115220242496854,
+      "longitude": 34.802991867560756,
+      "timestamp": 1734484352578,
+      "timestamp_formatted": "2024-12-18T01:12:32.578Z",
+      "accuracy": 28,
+      "battery": 81,
+      "location_details": {
+        "address": "5789 Franecki View",
+        "area": "Merseyside"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -83,
+      "movement_speed": 2.2858305962707703
+    },
+    {
+      "id": "4iX1J0Mv",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.08277548694064,
+      "longitude": 34.82735090969711,
+      "timestamp": 1734488672578,
+      "timestamp_formatted": "2024-12-18T02:24:32.578Z",
+      "accuracy": 21,
+      "battery": 82,
+      "location_details": {
+        "address": "3835 Buckridge Row",
+        "area": "Cleveland",
+        "building": "Langworth, Powlowski and Bruen"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -75,
+      "movement_speed": 1.7056415167758754
+    },
+    {
+      "id": "SNksUvwJ",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.074896293120524,
+      "longitude": 34.7338807366607,
+      "timestamp": 1734488672578,
+      "timestamp_formatted": "2024-12-18T02:24:32.578Z",
+      "accuracy": 75,
+      "battery": 88,
+      "location_details": {
+        "address": "8470 Mae Extensions",
+        "area": "Carroll County"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -32,
+      "movement_speed": 1.909641533333128
+    },
+    {
+      "id": "wvwWWEgr",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.1152515455858,
+      "longitude": 34.80199586549317,
+      "timestamp": 1734488672578,
+      "timestamp_formatted": "2024-12-18T02:24:32.578Z",
+      "accuracy": 27,
+      "battery": 80,
+      "location_details": {
+        "address": "5176 Chapel Street",
+        "area": "Shropshire",
+        "building": "McKenzie, Kuhn and Haley"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -85,
+      "movement_speed": 1.2030388611784044
+    },
+    {
+      "id": "secZsjyP",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.08387043550837,
+      "longitude": 34.827379353604805,
+      "timestamp": 1734492992578,
+      "timestamp_formatted": "2024-12-18T03:36:32.578Z",
+      "accuracy": 9,
+      "battery": 80,
+      "location_details": {
+        "address": "6330 Ola Hills",
+        "area": "South Glamorgan",
+        "building": "Kulas, Wisozk and Keebler"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -81,
+      "movement_speed": 2.1294720316184472
+    },
+    {
+      "id": "yU3iRGvO",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07465875365379,
+      "longitude": 34.73200956105199,
+      "timestamp": 1734492992578,
+      "timestamp_formatted": "2024-12-18T03:36:32.578Z",
+      "accuracy": 150,
+      "battery": 87,
+      "location_details": {
+        "address": "266 Ziemann Wells",
+        "area": "County Down",
+        "building": "Denesik, Reynolds and Strosin"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -80,
+      "movement_speed": 3.3399037916084544
+    },
+    {
+      "id": "h5qANGVe",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.116314941619024,
+      "longitude": 34.80397507815833,
+      "timestamp": 1734492992578,
+      "timestamp_formatted": "2024-12-18T03:36:32.578Z",
+      "accuracy": 13,
+      "battery": 79,
+      "location_details": {
+        "address": "45037 Amparo Camp",
+        "area": "Warren County"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -53,
+      "movement_speed": 2.560750241869788
+    },
+    {
+      "id": "eWM5jkFt",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.08621424629864,
+      "longitude": 34.82845051451221,
+      "timestamp": 1734497312578,
+      "timestamp_formatted": "2024-12-18T04:48:32.578Z",
+      "accuracy": 23,
+      "battery": 78,
+      "location_details": {
+        "address": "3826 William Street",
+        "area": "Hancock County"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -75,
+      "movement_speed": 2.422030872361643
+    },
+    {
+      "id": "OthyzP7s",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07318435653543,
+      "longitude": 34.73449502751398,
+      "timestamp": 1734497312578,
+      "timestamp_formatted": "2024-12-18T04:48:32.578Z",
+      "accuracy": 10,
+      "battery": 85,
+      "location_details": {
+        "address": "3765 Martin Luther King Boulevard",
+        "area": "Wayne County"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -33,
+      "movement_speed": 1.2513187397880343
+    },
+    {
+      "id": "yM8thV1O",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.11823671178041,
+      "longitude": 34.80213523389929,
+      "timestamp": 1734497312578,
+      "timestamp_formatted": "2024-12-18T04:48:32.578Z",
+      "accuracy": 26,
+      "battery": 79,
+      "location_details": {
+        "address": "4635 Pfeffer Underpass",
+        "area": "Lee County"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -76,
+      "movement_speed": 3.469206239046841
+    },
+    {
+      "id": "v2sBZ3SW",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.08378339101404,
+      "longitude": 34.82757067690477,
+      "timestamp": 1734501632578,
+      "timestamp_formatted": "2024-12-18T06:00:32.578Z",
+      "accuracy": 17,
+      "battery": 77,
+      "location_details": {
+        "address": "5501 A Street",
+        "area": "Clwyd"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -46,
+      "movement_speed": 2.6233239308337373
+    },
+    {
+      "id": "JiUN2ZTT",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07411175059382,
+      "longitude": 34.73537510222325,
+      "timestamp": 1734501632578,
+      "timestamp_formatted": "2024-12-18T06:00:32.578Z",
+      "accuracy": 8,
+      "battery": 84,
+      "location_details": {
+        "address": "559 Beechwood Avenue",
+        "area": "Humberside"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -47,
+      "movement_speed": 2.4820055031343715
+    },
+    {
+      "id": "QS7nMMEW",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.115851831769255,
+      "longitude": 34.80235957259478,
+      "timestamp": 1734501632578,
+      "timestamp_formatted": "2024-12-18T06:00:32.578Z",
+      "accuracy": 21,
+      "battery": 78,
+      "location_details": {
+        "address": "8516 Santina Overpass",
+        "area": "Gloucestershire"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -37,
+      "movement_speed": 2.060024881558222
+    },
+    {
+      "id": "HVzuJMod",
+      "device_id": "AT_DU9A_01",
+      "latitude": 32.08512227775776,
+      "longitude": 34.82617083462553,
+      "timestamp": 1734505952578,
+      "timestamp_formatted": "2024-12-18T07:12:32.578Z",
+      "accuracy": 14,
+      "battery": 76,
+      "location_details": {
+        "address": "351 Lemke Bridge",
+        "area": "Cornwall",
+        "building": "Kunze and Sons"
+      },
+      "connection_type": "wifi",
+      "signal_strength": -55,
+      "movement_speed": 3.4553202469987565
+    },
+    {
+      "id": "gyKmf4lX",
+      "device_id": "AT_WMRZ_02",
+      "latitude": 32.07408593000085,
+      "longitude": 34.73462160522538,
+      "timestamp": 1734505952578,
+      "timestamp_formatted": "2024-12-18T07:12:32.578Z",
+      "accuracy": 11,
+      "battery": 84,
+      "location_details": {
+        "address": "3999 Stracke Views",
+        "area": "Jackson County"
+      },
+      "connection_type": "cellular",
+      "signal_strength": -63,
+      "movement_speed": 0.5941278119896337
+    },
+    {
+      "id": "Gnn1nP2F",
+      "device_id": "AT_HIS6_03",
+      "latitude": 32.11686659399607,
+      "longitude": 34.80424819935848,
+      "timestamp": 1734505952578,
+      "timestamp_formatted": "2024-12-18T07:12:32.578Z",
+      "accuracy": 27,
+      "battery": 76,
+      "location_details": {
+        "address": "445 Manor Gardens",
+        "area": "Humberside",
+        "building": "Ryan Inc"
+      },
+      "connection_type": "bluetooth",
+      "signal_strength": -34,
+      "movement_speed": 2.9473889923482295
+    }
+  ],
+  "metadata": {
+    "device_count": 3,
+    "event_count": 60,
+    "time_range": {
+      "start": "2024-12-17T08:24:32.578Z",
+      "end": "2024-12-18T07:12:32.578Z"
+    },
+    "center": {
+      "latitude": 32.0853,
+      "longitude": 34.7818
+    },
+    "radius": 5,
+    "devices": [
+      {
+        "id": "AT_DU9A_01",
+        "model": "AirTag 2",
+        "owner": "Gary Cronin",
+        "registered_date": "2024-04-19T14:17:56.518Z",
+        "firmware_version": "3.2.6"
+      },
+      {
+        "id": "AT_WMRZ_02",
+        "model": "AirTag Pro",
+        "owner": "Alan Shields-Boehm",
+        "registered_date": "2024-10-22T21:10:32.450Z",
+        "firmware_version": "0.2.2"
+      },
+      {
+        "id": "AT_HIS6_03",
+        "model": "AirTag Pro",
+        "owner": "Mr. Milton Sawayn",
+        "registered_date": "2024-09-25T12:46:05.384Z",
+        "firmware_version": "3.3.3"
+      }
+    ],
+    "generation_info": {
+      "generated_at": "2024-12-18T08:24:32.583Z"
+    }
+  }
+}
