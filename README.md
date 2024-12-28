@@ -17,7 +17,7 @@ this is my solution for it (requirements + bonus) and this is the guide to run t
 1- download or clone this github repo and navigate to the folder where you downloaded or cloned this repo.  
 2- this folder has the client and server folders.  
 3- in the server folder open the terminal and type "npm install" to get all the dependencies.  
-4- in the client folder open the terminal and type "npm install --force" to get all the dependencies.  
+4- in the client folder open the terminal and type "npm install --force" to get all the dependencies (we use --force because for this demo react-leaflet draw library is used but no longer supported).  
 5- navigate to the server folder and open the terminal and type "npm run start:dev" to run the backend server.  
 6- navigate to the client folder and open the terminal and type "npm start" to run the frontend server".  
 7- that's it, the app is ready to be used.  
